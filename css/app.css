@@ -1,0 +1,90 @@
+
+.top-bar, .top-bar ul{
+	background-color: red;
+	color: red;
+}
+
+
+h1,h2,h3, {
+	font-family: roboto,sans-serif;
+	color: #E3E3E3;
+	font-size: 2rem;
+	font-weight: bolder;
+	padding-bottom: 2rem;
+	padding-top: 2rem;
+
+
+
+}
+
+
+
+
+header {
+	font-family: roboto,sans-serif;
+	font-weight: 700;
+	background-color: gray;
+	padding: 2rem;
+}
+
+.mid {
+	font-family: roboto,sans-serif;
+	color:red;
+	font-size: 1rem;
+	background-color: #000000;
+	text-align: center;
+	padding: 1rem;
+	margin: 0;
+	padding: 0;
+
+
+
+}
+
+.mid p{
+	font-size: 1rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fefefe;
+  font-family: roboto,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #0a0a0a;
+ 
+
+.mid img{
+	
+
+}
+.map {
+}
+
+footer {
+	margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: roboto,sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+}
+
+.member ]{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
